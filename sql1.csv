@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+order_id,bigint,YES,,NULL,
+customer_id,text,YES,,NULL,
+order_date,datetime,YES,,NULL,
+product_id,bigint,YES,,NULL,
+quantity,int,YES,,NULL,
+unit_price,double,YES,,NULL,
+total_price,double,YES,,NULL,
